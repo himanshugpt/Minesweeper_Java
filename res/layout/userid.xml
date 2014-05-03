@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:id="@+id/TableLayout01"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<TableRow>
+		<TextView android:text="@string/userId" android:id="@+id/TextView01"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"></TextView>
+		<EditText android:text="@+id/EditText01" android:id="@+id/EditText01"
+			android:layout_width="250px" android:layout_height="wrap_content"></EditText>
+	</TableRow>
+	<Button android:text="@string/StartGame" android:id="@+id/StartGameButton"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+</TableLayout>

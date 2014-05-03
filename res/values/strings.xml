@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Game!</string>
+	<string name="app_name">Minesweeper</string>
+	<string name="main_title">Android Minesweeper</string>
+	<string name="continue_label">Continue</string>
+	<string name="new_game_label">New Game</string>
+	<string name="about_label">About</string>
+	<string name="exit_label">Exit</string>
+	<string name="about_title">About Android Sudoku</string>
+	<string name="about_text">
+		Minesweeper is a single-player video game. The
+		object of the game is to clear an abstract minefield without
+		detonating a mine. The game has been written for many system platforms
+		in use today, including the Minesweeper for the Windows platform,
+		which has come bundled with versions of the operating system from 3.1
+		and on. Contrary to the beliefs of some, Minesweeper cannot always be
+		solved with 100% certainty, and may require the occasional use of
+		probability to flag the square most likely to have a mine. In other
+		words, one must sometimes guess to solve a minesweeper puzzle.
+	</string>
+	<string name="settings_label">Settings...</string>
+	<string name="settings_title">Minesweeper settings</string>
+	<string name="settings_shortcut">s</string>
+	<string name="music_title">Music</string>
+	<string name="music_summary">Play background music</string>
+	<string name="userId">User ID: </string>
+	<string name="StartGame">Start Game</string>
+</resources>
